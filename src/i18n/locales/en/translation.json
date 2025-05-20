@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "title": "Casa Mia - Complete Assistance for Foreign Citizens in Italy"
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Casa Mia",
+    "subtitle": "Complete Assistance for Foreign Citizens in Italy",
+    "cta": "Our Services"
+  },
+  "about": {
+    "title": "About Us",
+    "purpose": "Purpose, Aims and Activities",
+    "description": "The association is a non-profit organization pursuing civic, solidarity and social utility purposes. Through volunteer work, we provide various services to our associates, their families, and third parties.",
+    "activities": [
+      "Social intervention and services",
+      "Scientific research of particular social interest",
+      "Organization and management of cultural activities",
+      "Extra-school training aimed at preventing early school leaving",
+      "Services to third sector entities",
+      "Social housing and temporary residential activities",
+      "Humanitarian reception and social integration of migrants",
+      "Charity and support for disadvantaged people",
+      "Promotion of the culture of legality and peace among peoples"
+    ],
+    "specific": "Specifically, the association aims to:",
+    "specificList": [
+      "Perform cultural and linguistic mediation at public entities",
+      "Organize Italian language courses for immigrants",
+      "Create workshops on Italian culture, customs, and traditions",
+      "Organize events on immigrant rights and responsibilities",
+      "Promote events concerning the fundamental principles of the Italian Constitution",
+      "Collaborate with vocational training institutions",
+      "Organize Italian language courses and cultural workshops in countries of origin",
+      "Campaign against illegal immigration and promote legal immigration",
+      "Create support desks for immigrants",
+      "Provide support and guidance on immigration matters",
+      "Assist with immigration paperwork and procedures",
+      "Provide legal support on immigration issues",
+      "Collaborate with trade associations and institutions to promote workplace safety",
+      "Organize cultural events to introduce other cultures to Italians",
+      "Organize twinning and cultural exchanges",
+      "Organize Italian cultural events in countries of origin"
+    ]
+  },
+  "services": {
+    "title": "Our Services",
+    "translation": {
+      "title": "Translations",
+      "description": "Professional translation services for documents and in-person communication."
+    },
+    "mediation": {
+      "title": "Intercultural Mediation",
+      "description": "Cultural mediation services to facilitate understanding between different cultures."
+    },
+    "paperwork": {
+      "title": "Paperwork Assistance",
+      "description": "Assistance with various immigration procedures and documentation."
+    },
+    "citizenship": {
+      "title": "Citizenship Requests",
+      "description": "Support for the citizenship application process."
+    },
+    "family": {
+      "title": "Family Reunification",
+      "description": "Assistance with family reunification procedures."
+    },
+    "permit": {
+      "title": "Residence Permit",
+      "description": "Support for requesting and renewing residence permits."
+    },
+    "visa": {
+      "title": "Visa Applications",
+      "description": "Assistance with visa applications for various countries."
+    },
+    "asylum": {
+      "title": "International Protection",
+      "description": "Support for international protection requests."
+    },
+    "language": {
+      "title": "Italian Language Tests",
+      "description": "Preparation for Italian language tests for residence permits and citizenship."
+    },
+    "license": {
+      "title": "Driver's License Conversion",
+      "description": "Assistance with converting foreign driver's licenses."
+    },
+    "appointments": {
+      "title": "Appointment Booking",
+      "description": "Assistance with booking appointments at public offices and consulates."
+    },
+    "legal": {
+      "title": "Legal Assistance",
+      "description": "Legal support for immigration-related issues."
+    },
+    "regularization": {
+      "title": "Regularization Applications",
+      "description": "Support for regularization applications."
+    },
+    "authentication": {
+      "title": "Document Authentication",
+      "description": "Legalization, certification, and apostille services."
+    },
+    "digital": {
+      "title": "Digital Services",
+      "description": "Creation of digital identity (SPID), PEC emails, and other digital services."
+    },
+    "tax": {
+      "title": "Tax & Welfare Services",
+      "description": "CAF and patronage services."
+    },
+    "domestic": {
+      "title": "Domestic Worker Contracts",
+      "description": "Assistance with contracts for domestic workers and caregivers."
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "formName": "Name",
+    "formEmail": "Email",
+    "formMessage": "Message",
+    "formSubmit": "Send Message"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}

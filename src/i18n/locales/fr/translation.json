@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "title": "Casa Mia - Assistance complète pour les citoyens étrangers en Italie"
+  },
+  "navigation": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Casa Mia",
+    "subtitle": "Assistance complète pour les citoyens étrangers en Italie",
+    "cta": "Nos Services"
+  },
+  "about": {
+    "title": "À Propos de Nous",
+    "purpose": "Objectif, Buts et Activités",
+    "description": "L'association est une organisation à but non lucratif poursuivant des objectifs civiques, solidaires et d'utilité sociale. Grâce au travail bénévole, nous fournissons divers services à nos associés, à leurs familles et à des tiers.",
+    "activities": [
+      "Interventions et services sociaux",
+      "Recherche scientifique d'intérêt social particulier",
+      "Organisation et gestion d'activités culturelles",
+      "Formation extra-scolaire",
+      "Services aux entités du tiers secteur",
+      "Logement social et activités résidentielles temporaires",
+      "Accueil humanitaire et intégration sociale des migrants",
+      "Charité et soutien aux personnes défavorisées",
+      "Promotion de la culture de la légalité et de la paix entre les peuples"
+    ],
+    "specific": "Plus précisément, l'association vise à:",
+    "specificList": [
+      "Effectuer une médiation culturelle et linguistique auprès des entités publiques",
+      "Organiser des cours de langue italienne pour les immigrants",
+      "Créer des ateliers sur la culture, les coutumes et les traditions italiennes",
+      "Organiser des événements sur les droits et responsabilités des immigrants",
+      "Promouvoir des événements concernant les principes fondamentaux de la Constitution italienne",
+      "Collaborer avec des institutions de formation professionnelle",
+      "Organiser des cours de langue italienne et des ateliers culturels dans les pays d'origine",
+      "Faire campagne contre l'immigration illégale et promouvoir l'immigration légale",
+      "Créer des bureaux de soutien pour les immigrants",
+      "Fournir un soutien et des conseils sur les questions d'immigration",
+      "Aider aux formalités et procédures d'immigration",
+      "Fournir un soutien juridique sur les questions d'immigration",
+      "Collaborer avec des associations professionnelles et des institutions pour promouvoir la sécurité au travail",
+      "Organiser des événements culturels pour faire connaître d'autres cultures aux Italiens",
+      "Organiser des jumelages et des échanges culturels",
+      "Organiser des événements culturels italiens dans les pays d'origine"
+    ]
+  },
+  "services": {
+    "title": "Nos Services",
+    "translation": {
+      "title": "Traductions",
+      "description": "Services de traduction professionnelle pour documents et communication en personne."
+    },
+    "mediation": {
+      "title": "Médiation Interculturelle",
+      "description": "Services de médiation culturelle pour faciliter la compréhension entre différentes cultures."
+    },
+    "paperwork": {
+      "title": "Assistance aux démarches",
+      "description": "Assistance pour diverses procédures et documentation d'immigration."
+    },
+    "citizenship": {
+      "title": "Demandes de citoyenneté",
+      "description": "Soutien pour le processus de demande de citoyenneté."
+    },
+    "family": {
+      "title": "Regroupement familial",
+      "description": "Assistance pour les procédures de regroupement familial."
+    },
+    "permit": {
+      "title": "Permis de séjour",
+      "description": "Soutien pour la demande et le renouvellement des permis de séjour."
+    },
+    "visa": {
+      "title": "Demandes de visa",
+      "description": "Assistance pour les demandes de visa pour divers pays."
+    },
+    "asylum": {
+      "title": "Protection internationale",
+      "description": "Soutien pour les demandes de protection internationale."
+    },
+    "language": {
+      "title": "Tests de langue italienne",
+      "description": "Préparation aux tests de langue italienne pour les permis et la citoyenneté."
+    },
+    "license": {
+      "title": "Conversion du permis de conduire",
+      "description": "Assistance pour la conversion des permis de conduire étrangers."
+    },
+    "appointments": {
+      "title": "Prise de rendez-vous",
+      "description": "Assistance pour la prise de rendez-vous dans les bureaux publics et les consulats."
+    },
+    "legal": {
+      "title": "Assistance juridique",
+      "description": "Soutien juridique pour les questions liées à l'immigration."
+    },
+    "regularization": {
+      "title": "Demandes de régularisation",
+      "description": "Soutien pour les demandes de régularisation."
+    },
+    "authentication": {
+      "title": "Authentification de documents",
+      "description": "Services de légalisation, de certification et d'apostille."
+    },
+    "digital": {
+      "title": "Services numériques",
+      "description": "Création d'identité numérique (SPID), emails PEC et autres services numériques."
+    },
+    "tax": {
+      "title": "Services fiscaux et sociaux",
+      "description": "Services CAF et de patronage."
+    },
+    "domestic": {
+      "title": "Contrats de travail domestique",
+      "description": "Assistance pour les contrats des travailleurs domestiques et des aidants."
+    }
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "address": "Adresse",
+    "phone": "Téléphone",
+    "email": "Email",
+    "formName": "Nom",
+    "formEmail": "Email",
+    "formMessage": "Message",
+    "formSubmit": "Envoyer le message"
+  },
+  "footer": {
+    "rights": "Tous droits réservés",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation"
+  }
+}

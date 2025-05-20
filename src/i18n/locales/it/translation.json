@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "title": "Casa Mia - Assistenza completa per cittadini stranieri in Italia"
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "Chi Siamo",
+    "services": "Servizi",
+    "contact": "Contatti"
+  },
+  "hero": {
+    "title": "Casa Mia",
+    "subtitle": "Assistenza completa per cittadini stranieri in Italia",
+    "cta": "I Nostri Servizi"
+  },
+  "about": {
+    "title": "Chi Siamo",
+    "purpose": "Scopo, finalità e attività",
+    "description": "L'associazione non ha scopo di lucro e persegue finalità civiche, solidaristiche e di utilità sociale, mediante lo svolgimento in favore dei propri associati, di loro familiari o di terzi di una o più attività di interesse generale, avvalendosi in modo prevalente dell'attività di volontariato dei propri associati.",
+    "activities": [
+      "Interventi e servizi sociali",
+      "Ricerca scientifica di particolare interesse sociale",
+      "Organizzazione e gestione di attività culturali",
+      "Formazione extra-scolastica",
+      "Servizi strumentali ad enti del Terzo settore",
+      "Alloggio sociale e attività residenziali temporanee",
+      "Accoglienza umanitaria ed integrazione sociale dei migranti",
+      "Beneficenza e sostegno a persone svantaggiate",
+      "Promozione della cultura della legalità e della pace tra i popoli"
+    ],
+    "specific": "Nello specifico, l'associazione intende:",
+    "specificList": [
+      "Effettuare la mediazione culturale e linguistica presso gli enti pubblici",
+      "Organizzare corsi di lingua italiana per gli immigrati",
+      "Organizzare laboratori sulla cultura, usi e costumi italiani",
+      "Organizzare eventi sui diritti e doveri dell'immigrato",
+      "Organizzare eventi sui principi fondamentali della Costituzione italiana",
+      "Collaborare con enti di formazione professionale",
+      "Organizzare nei paesi di provenienza corsi di lingua e cultura italiana",
+      "Fare campagne di sensibilizzazione contro l'immigrazione clandestina",
+      "Creare sportelli di ascolto per gli immigrati",
+      "Fornire supporto e orientamento sull'immigrazione",
+      "Assistere nelle pratiche dell'immigrazione",
+      "Offrire supporto legale per l'immigrazione",
+      "Collaborare con associazioni di categoria per promuovere la sicurezza sul lavoro",
+      "Organizzare eventi culturali per far conoscere altre culture agli italiani",
+      "Organizzare gemellaggi e scambi culturali",
+      "Organizzare eventi culturali italiani nei paesi di provenienza"
+    ]
+  },
+  "services": {
+    "title": "I Nostri Servizi",
+    "translation": {
+      "title": "Traduzioni",
+      "description": "Servizi di traduzione professionale per documenti e comunicazione in presenza."
+    },
+    "mediation": {
+      "title": "Mediazione interculturale",
+      "description": "Servizi di mediazione culturale per facilitare la comprensione tra diverse culture."
+    },
+    "paperwork": {
+      "title": "Assistenza nelle pratiche",
+      "description": "Assistenza con varie procedure e documentazione per l'immigrazione."
+    },
+    "citizenship": {
+      "title": "Richiesta cittadinanza",
+      "description": "Supporto per il processo di richiesta della cittadinanza."
+    },
+    "family": {
+      "title": "Ricongiungimento familiare",
+      "description": "Assistenza con le procedure di ricongiungimento familiare."
+    },
+    "permit": {
+      "title": "Permesso di soggiorno",
+      "description": "Supporto per la richiesta e il rinnovo dei permessi di soggiorno."
+    },
+    "visa": {
+      "title": "Richiesta visti",
+      "description": "Assistenza con le richieste di visto per vari paesi."
+    },
+    "asylum": {
+      "title": "Protezione internazionale",
+      "description": "Supporto per le richieste di protezione internazionale."
+    },
+    "language": {
+      "title": "Test di lingua italiana",
+      "description": "Preparazione per i test di lingua italiana per permessi e cittadinanza."
+    },
+    "license": {
+      "title": "Conversione patente",
+      "description": "Assistenza con la conversione delle patenti straniere."
+    },
+    "appointments": {
+      "title": "Prenotazione appuntamenti",
+      "description": "Assistenza per prenotare appuntamenti presso uffici pubblici e consolati."
+    },
+    "legal": {
+      "title": "Assistenza legale",
+      "description": "Supporto legale per questioni legate all'immigrazione."
+    },
+    "regularization": {
+      "title": "Domanda di sanatoria",
+      "description": "Supporto per le domande di sanatoria."
+    },
+    "authentication": {
+      "title": "Autenticazione documenti",
+      "description": "Servizi di legalizzazione, asseverazione e apostilla."
+    },
+    "digital": {
+      "title": "Servizi digitali",
+      "description": "Creazione SPID, invio PEC e altri servizi digitali."
+    },
+    "tax": {
+      "title": "Servizi CAF e Patronato",
+      "description": "Servizi fiscali e di patronato."
+    },
+    "domestic": {
+      "title": "Contratti domestici",
+      "description": "Assistenza con contratti per colf e badanti."
+    }
+  },
+  "contact": {
+    "title": "Contattaci",
+    "address": "Indirizzo",
+    "phone": "Telefono",
+    "email": "Email",
+    "formName": "Nome",
+    "formEmail": "Email",
+    "formMessage": "Messaggio",
+    "formSubmit": "Invia Messaggio"
+  },
+  "footer": {
+    "rights": "Tutti i diritti riservati",
+    "privacy": "Privacy Policy",
+    "terms": "Termini di Servizio"
+  }
+}
